@@ -3,7 +3,7 @@
 title: Data Structures and Algorithms
 
 # Title for the menu link if you wish to use a shorter link title, otherwise remove this option.
-linktitle: dsa
+linktitle: DSA
 
 # Page summary for search engines.
 summary: Blah, blah, blah...
