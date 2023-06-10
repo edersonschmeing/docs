@@ -2,7 +2,7 @@
 # Title, summary, and page position.
 linktitle: Algoritmos de Ordenação
 summary: Learn how to use Wowchemy's docs layout for publishing online courses, software documentation, and tutorials.
-weight: 1
+weight: 20
 icon: book
 icon_pack: fas
 
