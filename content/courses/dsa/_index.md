@@ -1,3 +1,4 @@
+---
 # Page title
 title: Data Structures and Algorithms
 
@@ -17,3 +18,4 @@ type: book
 # weight: 1
 
 toc: false
+---
