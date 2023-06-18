@@ -3,7 +3,7 @@
 title: Algoritmos e Estrutura de Dados
 
 # Title for the menu link if you wish to use a shorter link title, otherwise remove this option.
-linktitle: DSA
+linktitle: AED
 
 # Page summary for search engines.
 summary: Blah, blah, blah...
