@@ -7,9 +7,9 @@ main:
   - name: Home
     url: home/
     weight: 10
-  - name: Documentation
+  - name: Documentação
     url: docs/
     weight: 20
-  - name: Courses
+  - name: Cursos
     url: courses/
     weight: 30
