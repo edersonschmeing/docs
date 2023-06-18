@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: 'Meus Projetos # Website name
+title: 'Meus Projetos' # Website name
 baseURL: 'https://edersonschmeing.github.io/projects/' # Website URL
 
 ############################
