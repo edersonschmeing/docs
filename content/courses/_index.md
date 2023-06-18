@@ -1,5 +1,5 @@
 ---
-title: My Courses
+title: Meus Cursos
 type: book # Do not modify.
 toc: false
 ---
