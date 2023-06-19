@@ -3,7 +3,7 @@
 linktitle: Introdução à Programação de Computadores
 summary: Learn how to use Wowchemy's docs layout for publishing online courses, software documentation, and tutorials.
 weight: 10
-icon: star
+icon: book
 icon_pack: fas
 
 # Page metadata.
