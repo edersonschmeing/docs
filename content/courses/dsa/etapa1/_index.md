@@ -1,6 +1,6 @@
 ---
 # Title, summary, and page position.
-linktitle: Analise de Algoritmos
+linktitle: Análise de Algoritmos
 summary: Learn how to use Wowchemy's docs layout for publishing online courses, software documentation, and tutorials.
 weight: 10
 icon: book
