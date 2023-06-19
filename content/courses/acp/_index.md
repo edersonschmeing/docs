@@ -3,13 +3,12 @@
 title: Algoritmos e Programação de Computadores 
 
 # Title for the menu link if you wish to use a shorter link title, otherwise remove this option.
-linktitle: APC
-
+linktitle: Algoritmos e Programação de Computadores
 # Page summary for search engines.
-summary: Blah, blah, blah...
+summary: Algoritmos e Programação de Computadores
 
 # Date page published
-date: 2022-06-09
+date: 2023-06-18
 
 # Book page type (do not modify).
 type: book
