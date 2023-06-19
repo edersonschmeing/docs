@@ -1,6 +1,6 @@
 ---
 # Title, summary, and page position.
-linktitle: Introdução a Programação de Computadores
+linktitle: Introdução  Programação de Computadores
 summary: Learn how to use Wowchemy's docs layout for publishing online courses, software documentation, and tutorials.
 weight: 10
 icon: book
