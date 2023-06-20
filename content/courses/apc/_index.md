@@ -10,8 +10,8 @@ summary: Algoritmos e Programação de Computadores
 # Date page published
 date: 2023-06-18
 
-icon: book
-icon_pack: fas
+# icon: book
+# icon_pack: fas
 
 # Book page type (do not modify).
 type: book
