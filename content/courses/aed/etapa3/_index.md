@@ -7,7 +7,7 @@ weight: 30
 # icon_pack: fas
 
 # Page metadata.
-title: Etapa 1
+title: Estrutura de Dados Lineares
 date: '2018-09-09T00:00:00Z'
 type: book # Do not modify.
 ---
