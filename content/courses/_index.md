@@ -1,5 +1,6 @@
 Bem vindos aos meus cursos!
 
+
 ---
 # Page title
 title: Meus Cursos
@@ -20,5 +21,6 @@ date: 2023-06-20
 type: book
 
 toc: false
+
 ---
 
