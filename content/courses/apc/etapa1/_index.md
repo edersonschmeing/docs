@@ -3,11 +3,11 @@
 linktitle: Introdução à Programação de Computadores
 summary: Learn how to use Wowchemy's docs layout for publishing online courses, software documentation, and tutorials.
 weight: 10
-icon: book
-icon_pack: fas
+# icon: book
+# icon_pack: fas
 
 # Page metadata.
-title: Etapa 1
+title: Introdução à Programação de Computadores
 date: '2018-09-09T00:00:00Z'
 type: book # Do not modify.
 ---

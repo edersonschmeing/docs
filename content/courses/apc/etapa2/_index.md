@@ -7,7 +7,7 @@ icon: book
 icon_pack: fas
 
 # Page metadata.
-title: Etapa 2
+title: Funções e Tipos Compostos
 date: '2018-09-09T00:00:00Z'
 type: book # Do not modify.
 ---

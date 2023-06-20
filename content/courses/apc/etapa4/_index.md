@@ -8,7 +8,7 @@ icon: book
 icon_pack: fas
 
 # Page metadata.
-title: Etapa 3
+title: Memória
 date: '2018-09-09T00:00:00Z'
 type: book # Do not modify.
 ---
