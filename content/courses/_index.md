@@ -19,10 +19,6 @@ date: 2023-06-20
 # Book page type (do not modify).
 type: book
 
-
-
 toc: false
-# draft: true
 ---
 
-Bem vindos aos meus cursos!
