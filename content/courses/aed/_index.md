@@ -12,7 +12,7 @@ icon: book
 icon_pack: fas
 
 # Date page published
-date: 2022-06-09
+date: 2023-06-20
 
 # Book page type (do not modify).
 type: book
@@ -20,8 +20,8 @@ type: book
 # Position of this page in the menu. Remove this option to sort alphabetically.
 weight: 20
 
-toc: true
+toc: false
 ---
 
-Bibliografia
+## Bibliografia
 
