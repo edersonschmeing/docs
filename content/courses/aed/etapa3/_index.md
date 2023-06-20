@@ -1,11 +1,10 @@
-
 ---
 # Title, summary, and page position.
 linktitle: Estrutura de Dados Lineares 
 summary: Learn how to use Wowchemy's docs layout for publishing online courses, software documentation, and tutorials.
 weight: 30
-icon: book
-icon_pack: fas
+# icon: book
+# icon_pack: fas
 
 # Page metadata.
 title: Etapa 1

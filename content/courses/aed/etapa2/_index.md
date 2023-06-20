@@ -3,8 +3,8 @@
 linktitle: Ordenação e Busca
 summary: Learn how to use Wowchemy's docs layout for publishing online courses, software documentation, and tutorials.
 weight: 20
-icon: book
-icon_pack: fas
+# icon: book
+# icon_pack: fas
 
 # Page metadata.
 title: Etapa 1

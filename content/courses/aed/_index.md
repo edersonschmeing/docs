@@ -8,6 +8,9 @@ linktitle: Algoritmos e Estrutura de Dados
 # Page summary for search engines.
 summary: Blah, blah, blah...
 
+icon: book
+icon_pack: fas
+
 # Date page published
 date: 2022-06-09
 

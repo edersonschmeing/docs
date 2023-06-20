@@ -1,11 +1,10 @@
-
 ---
 # Title, summary, and page position.
 linktitle: Estrutura de Dados Não Lineares 
 summary: Learn how to use Wowchemy's docs layout for publishing online courses, software documentation, and tutorials.
 weight: 40
-icon: book
-icon_pack: fas
+# icon: book
+# icon_pack: fas
 
 # Page metadata.
 title: Etapa 1
