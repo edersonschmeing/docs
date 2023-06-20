@@ -6,7 +6,7 @@ title: Memória
 linktitle: Memória 
 
 # Page summary for search engines.
-summary: Blah, blah, blah...
+summary: blá blá blá...
 
 # icon: book
 # icon_pack: fas
