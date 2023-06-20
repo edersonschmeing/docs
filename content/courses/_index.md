@@ -1,5 +1,3 @@
-Bem vindos aos meus cursos!
-
 ---
 # Page title
 title: Meus Cursos
@@ -18,6 +16,8 @@ date: 2023-06-20
 
 # Book page type (do not modify).
 type: book
+
+#Bem vindos aos meus cursos!
 
 toc: false
 ---
