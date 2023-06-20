@@ -6,7 +6,7 @@ title: Algoritmos e Estrutura de Dados
 linktitle: Algoritmos e Estrutura de Dados
 
 # Page summary for search engines.
-summary: Blah, blah, blah...
+summary: Este curso tem como objetivo capacitar o aluno para ele seja capaz de compreender, implementar e utilizar as principais estuturas de dados e suas diferentes estratégias de organização de informação. Além disso, também ser preparado para analisar a complexidade de algoritmos utilizando notação assintótica. Em particular, essa análise tem como base algoritmos de ordenação, busca e operações básicas de diversas estruturas de dados.
 
 icon: book
 icon_pack: fas
@@ -20,8 +20,6 @@ type: book
 # Position of this page in the menu. Remove this option to sort alphabetically.
 weight: 20
 
+## Bibliografia
 toc: false
 ---
-
-## Bibliografia
-
