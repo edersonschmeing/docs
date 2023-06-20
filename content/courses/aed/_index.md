@@ -25,6 +25,7 @@ toc: false
 
 ---
 
+<!--
 ## Bibliografia
 
 CORMEN, T. H. et.al. Introduction to Algorithms, 4th edition, The MIT Press, 2022. 
@@ -40,4 +41,4 @@ Site do livro: https://algs4.cs.princeton.edu/home/
 AHO, A.V & ULLMAN, J.D. & HOPCROFT, J.E. Data Structures and Algorithms. 
 
 Site do livro: http://orion.lcg.ufrj.br/Dr.Dobbs/books/book9/toc.htm
-
+-->
