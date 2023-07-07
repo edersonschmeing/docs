@@ -5,8 +5,7 @@ title: Algoritmos e Programação de Computadores
 # Title for the menu link if you wish to use a shorter link title, otherwise remove this option.
 linktitle: Algoritmos e Programação de Computadores
 # Page summary for search engines.
-summary: Este curso tem como objetivo desenvolver habilidades técnicas no aluno para que ele seja capaz de aplicar na solução de problemas através da
-implementação de algoritmos em linguagem de programação.
+summary: Este curso tem como objetivo desenvolver habilidades técnicas no aluno para que ele seja capaz de aplicar na solução de problemas através da implementação de algoritmos em linguagem de programação.
 
 # Date page published
 date: 2023-06-18
