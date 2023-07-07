@@ -6,7 +6,7 @@ title: Meus Cursos
 linktitle: Meus Cursos
 
 # Page summary for search engines.
-summary: Blah, blah, blah...
+summary: Bem vindos aos meus cursos!
 
 # icon: book
 # icon_pack: fas
