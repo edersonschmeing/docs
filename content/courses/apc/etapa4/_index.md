@@ -6,7 +6,7 @@ title: Algoritmos
 linktitle: Algoritmos 
 
 # Page summary for search engines.
-summary: Blah, blah, blah...
+summary: A compreensão de métodos de ordenação e busca é primordial para recuperação dos dados de forma eficiente. Além da forma iterativa podemos utilizar também a forma recursiva para realizar operações repetidamente e ainda deixar nosso código mais legível e elegante. A técnica de recursão é quando uma função chama a si própria como parte de sua execução. Verificamos se um algoritmo é eficiente através da análise de complexidade. 
 
 # icon: book
 # icon_pack: fas
