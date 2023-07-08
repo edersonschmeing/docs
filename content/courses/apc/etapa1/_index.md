@@ -6,7 +6,7 @@ title: Introdução à Programação de Computadores
 linktitle: Introdução à Programação de Computadores 
 
 # Page summary for search engines.
-summary: Conceitos da computação e algoritmos, forma de representar a informação. Variáveis e expressões, condicionais e repetição.
+summary: Conceitos da computação e algoritmos, formas de representar a informação, variáveis, expressões, condicionais e repetição.
 
 # icon: book
 # icon_pack: fas
