@@ -7,7 +7,7 @@ date: '2019-05-05T00:00:00+01:00'
 weight: 30
 ---
 
-A recommended reading list for the course.
+A recommended reading list for the course. This course... 
 
 ## Books
 
