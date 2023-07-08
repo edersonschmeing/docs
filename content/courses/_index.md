@@ -6,7 +6,7 @@ title: Meus Cursos
 linktitle: Meus Cursos
 
 # Page summary for search engines.
-summary: Bem vindos aos meus cursos de computação!
+summary: Bem vindos aos meus cursos!
 
 # icon: book
 # icon_pack: fas
@@ -19,7 +19,7 @@ type: book
 
 toc: false
 # draft: true
-# <!-- Bem vindos aos meus cursos computação! -->
+# <!-- Bem vindos aos meus cursos! -->
 ---
 
 
