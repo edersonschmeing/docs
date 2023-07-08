@@ -2,7 +2,7 @@
 # Page title
 title: Algoritmos
 
-# Title for the menu link if you wish to use a shorter link title, otherwise remove this option.
+# Title for the menu link if you wish to use a shorter link title, otherwise remove this option. 
 linktitle: Algoritmos 
 
 # Page summary for search engines.
