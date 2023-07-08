@@ -6,7 +6,7 @@ title: Funções e Tipos Compostos
 linktitle: Funções e Tipos Compostos 
 
 # Page summary for search engines.
-summary: Blah, blah, blah...
+summary: Os dados de uma aplicação são armazenados, manipulados, ordenados e recuperados. O conhecimento da forma correta da utilização dos tipos compostos e funções é fundamental para construção de algoritmos eficientes e reutilizáveis.
 
 # icon: book
 # icon_pack: fas
