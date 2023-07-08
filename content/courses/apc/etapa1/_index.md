@@ -6,7 +6,7 @@ title: Introdução à Programação de Computadores
 linktitle: Introdução à Programação de Computadores 
 
 # Page summary for search engines.
-summary: Blah, blah, blah...
+summary: Conceitos da computação e algoritmos, forma de representar a informação. Variáveis e expressões, condicionais e repetição.
 
 # icon: book
 # icon_pack: fas
