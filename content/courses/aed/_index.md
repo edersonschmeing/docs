@@ -23,22 +23,21 @@ weight: 20
 toc: false
 # draft: true
 
+# <!-- https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open
+# Bibliografia
+
+# CORMEN, T. H. et.al. Introduction to Algorithms, 4th edition, The MIT Press, 2022. 
+
+# Site do livro: http://mitpress.mit.edu/algorithms/
+
+# SEDGEWICK, Robert; WAYNE, Kevin. Algorithms. 4th edition, Addison Wesley, 2011. 
+
+# Site do autor: https://sedgewick.io/courses/algorithms/
+
+# Site do livro: https://algs4.cs.princeton.edu/home/
+
+# AHO, A.V & ULLMAN, J.D. & HOPCROFT, J.E. Data Structures and Algorithms. 
+
+# Site do livro: http://orion.lcg.ufrj.br/Dr.Dobbs/books/book9/toc.htm
+#-->
 ---
-
-<!--
-## Bibliografia
-
-CORMEN, T. H. et.al. Introduction to Algorithms, 4th edition, The MIT Press, 2022. 
-
-Site do livro: http://mitpress.mit.edu/algorithms/
-
-SEDGEWICK, Robert; WAYNE, Kevin. Algorithms. 4th edition, Addison Wesley, 2011. 
-
-Site do autor: https://sedgewick.io/courses/algorithms/
-
-Site do livro: https://algs4.cs.princeton.edu/home/
-
-AHO, A.V & ULLMAN, J.D. & HOPCROFT, J.E. Data Structures and Algorithms. 
-
-Site do livro: http://orion.lcg.ufrj.br/Dr.Dobbs/books/book9/toc.htm
--->
